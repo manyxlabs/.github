@@ -1,10 +1,14 @@
-<img src="banner.png" alt="Manyx Labs. Engineering AI that holds up in production." width="100%">
+<img src="banner.png" alt="Manyx Labs" width="100%">
 
-Manyx Labs is an applied AI studio in Bengaluru, founded by [Manyx Labs](https://github.com/manyxlabs).
-We design, build and ship production AI systems for teams that need them to work reliably.
+Manyx Labs builds small, boring software for everyday jobs, in Bengaluru.
+Every tool does one job, needs no signup, shows no ads, and runs in your browser wherever it can, so your files stay with you.
 
-- **Agentic systems:** multi-agent orchestration with LangGraph, tool use and MCP
-- **Retrieval:** RAG pipelines, vector search and knowledge graphs
-- **Reliability:** evals, tracing and E2E tests, so models behave the same in production as in the demo
+**In progress**
 
-[Work with us](mailto:manish@manyxlabs.com) · [X](https://github.com/manyxlabs) · [LinkedIn](https://github.com/manyxlabs)
+- **Form Photo & Signature Resizer:** the exact KB, pixel size and format that exam, passport and bank forms ask for.
+- **Mutual Fund Screener:** Indian mutual funds compared on rolling returns, risk and real peer performance. A research tool, not investment advice.
+
+We also design and ship production AI systems for teams: multi-agent workflows, retrieval and evals.
+Founded by [Manyx Labs](https://github.com/manyxlabs).
+
+[Website](https://www.manyxlabs.com) · [Suggest a tool](mailto:manish@manyxlabs.com) · [Work with us](mailto:manish@manyxlabs.com)
