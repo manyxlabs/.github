@@ -9,6 +9,5 @@ Every tool does one job, needs no signup, shows no ads, and runs in your browser
 - **Mutual Fund Screener:** Indian mutual funds compared on rolling returns, risk and real peer performance. A research tool, not investment advice.
 
 We also design and ship production AI systems for teams: multi-agent workflows, retrieval and evals.
-Founded by [Manyx Labs](https://github.com/manyxlabs).
 
 [Website](https://www.manyxlabs.com) · [Suggest a tool](mailto:manish@manyxlabs.com) · [Work with us](mailto:manish@manyxlabs.com)
